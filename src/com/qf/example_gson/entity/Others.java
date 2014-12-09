@@ -1,5 +1,7 @@
 package com.qf.example_gson.entity;
 
+import java.lang.reflect.Type;
+
 public class Others {
 	private String color ;
 	private String image ;
